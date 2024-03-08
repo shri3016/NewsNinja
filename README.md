@@ -7,10 +7,14 @@ NewsNinja is an easy-to-use news Research tool developed for hassle-free data re
 
 # Tools/Technologies Used:
 This project involves implementing an end-to-end solution using **Large Language Models (LLM)** and **Natural Language Processing (NLP)** techniques like:
-1.Langchain
-2.OpenAI API
-3.FAISS
-4.Streamlit
+
+- Langchain
+
+- OpenAI API
+
+- FAISS
+
+- Streamlit
 
 ## Features
 
